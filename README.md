@@ -4,9 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,1,10&height=200&section=header&text=Andy%20Miguel&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=00ff9d&strokeWidth=2&height=280&section=header&text=%20SYSTEM.INFO%0A%20Subject:%20Andy%20Miguel%0A%20Role:%20Web%20Developer%20|%20Cybersecurity%20Student%0A%20Status:%20Building%20|%20Auditing%20|%20Shipping&fontSize=20&fontColor=00ff9d&fontAlignY=50&animation=twinkling" width="100%" alt="Profile Scan Header"/>
-</p>
 ---
 
 ### 👨‍💻 About Me
