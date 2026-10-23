@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Web Developer & Cybersecurity Enthusiast**, based in Cameroon
-- 🛠️ Working primarily with **Node.js, Express, React, TypeScript, Python & Linux**
+- 🛠️ Working primarily with **Node.js, Express, React, Django, TypeScript, Python & Linux**
 - 📚 Currently strengthening my academic and technical skills in security auditing & penetration testing
 - ⚡ Always up for tackling tricky bugs or optimizing complex system architectures
 
