@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,1,10&height=200&section=header&text=Andy%20Miguel&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
 </p>
 
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Designer+%26+Photographer+%F0%9F%8E%A8;3%2B+Years+Shipping+Real+Products;Open+to+Remote+Work+%F
 ---
 
