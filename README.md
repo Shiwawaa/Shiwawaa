@@ -1,7 +1,7 @@
 <h1 align="center">Yo, I'm Andy Miguel</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,1,10&height=200&section=header&text=Andy%20Miguel&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="./banner.svg" alt="Andy Miguel Banner" width="100%">
 </p>
 
 </p>
