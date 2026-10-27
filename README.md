@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiwawaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Most Used Languages" height="165" />
 </p>
 
 
