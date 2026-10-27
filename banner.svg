@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%" height="100%">
+  <defs>
+    <!-- Arrière-plan sombre -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0c" />
+      <stop offset="100%" stop-color="#121318" />
+    </linearGradient>
+
+    <!-- Effet de lueur au survol -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Motif de particules en fond -->
+    <pattern id="dotPattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.15" />
+      <circle cx="12" cy="10" r="1.2" fill="#ffffff" opacity="0.1" />
+    </pattern>
+  </defs>
+
+  <style>
+    .bg-card {
+      fill: url(#bgGrad);
+      stroke: #2d3139;
+      stroke-width: 1.5;
+      rx: 16px;
+      transition: all 0.4s ease;
+    }
+
+    /* Animation subtile des particules */
+    .particle {
+      fill: #ffffff;
+      opacity: 0.6;
+      animation: float 3s infinite ease-in-out alternate;
+    }
+
+    .p1 { animation-delay: 0s; }
+    .p2 { animation-delay: 0.5s; }
+    .p3 { animation-delay: 1s; }
+    .p4 { animation-delay: 1.5s; }
+
+    @keyframes float {
+      0% { transform: translateY(0px) scale(1); opacity: 0.4; }
+      100% { transform: translateY(-4px) scale(1.3); opacity: 0.9; }
+    }
+
+    /* Style du texte principal */
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 52px;
+      font-weight: 900;
+      fill: #ffffff;
+      letter-spacing: 4px;
+      transition: all 0.4s ease;
+      transform-origin: center;
+    }
+
+    .sub-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace;
+      font-size: 14px;
+      fill: #8b949e;
+      letter-spacing: 2px;
+      transition: all 0.3s ease;
+    }
+
+    /* Interactivité au survol de la souris (:hover) */
+    .banner-group:hover .bg-card {
+      stroke: #58a6ff;
+      filter: drop-shadow(0 0 15px rgba(88, 166, 255, 0.25));
+    }
+
+    .banner-group:hover .title-text {
+      letter-spacing: 7px;
+      fill: #ffffff;
+      filter: url(#glow);
+    }
+
+    .banner-group:hover .particle {
+      opacity: 1;
+      fill: #58a6ff;
+    }
+
+    .banner-group:hover .sub-text {
+      fill: #58a6ff;
+    }
+  </style>
+
+  <!-- Conteneur global interactif -->
+  <g class="banner-group">
+    <!-- Cadre de fond -->
+    <rect class="bg-card" x="10" y="10" width="780" height="200" />
+    
+    <!-- Grille de fond texturée -->
+    <rect x="10" y="10" width="780" height="200" fill="url(#dotPattern)" rx="16" />
+
+    <!-- Quelques particules flottantes stylisées autour du texte -->
+    <g>
+      <circle class="particle p1" cx="180" cy="70" r="2" />
+      <circle class="particle p2" cx="220" cy="140" r="2.5" />
+      <circle class="particle p3" cx="260" cy="60" r="1.5" />
+      <circle class="particle p4" cx="540" cy="150" r="2" />
+      <circle class="particle p1" cx="580" cy="65" r="3" />
+      <circle class="particle p2" cx="620" cy="130" r="1.5" />
+      <circle class="particle p3" cx="310" cy="155" r="2" />
+      <circle class="particle p4" cx="490" cy="55" r="2.5" />
+    </g>
+
+    <!-- Texte central : Andy Miguel -->
+    <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" class="title-text">
+      ANDY MIGUEL
+    </text>
+
+    <!-- Sous-titre -->
+    <text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" class="sub-text">
+      < WEB DEVELOPER & CYBERSECURITY ENTHUSIAST />
+    </text>
+  </g>
+</svg>
