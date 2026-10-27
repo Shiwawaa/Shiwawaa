@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiwawaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
 
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🤝 Connect With Me
