@@ -33,9 +33,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiwawaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs" height="165" />
+</p>
 ---
 
 ### 🤝 Connect With Me
