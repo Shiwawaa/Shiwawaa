@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 ** A Full-stack Developer **, based in Cameroon
+- 🎓 **A Full-stack Developer**, based in Cameroon
 - 🛠️ Working primarily with **Node.js, Express, React, Django, TypeScript, Python & Linux**
 - 📚 Currently strengthening my academic and technical skills in software engineering
 - ⚡ Always up for tackling tricky bugs or optimizing complex system architectures
