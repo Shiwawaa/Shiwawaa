@@ -1,20 +1,107 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4F9CF9&height=220&section=header&text=Andy%20Miguel&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Header"/> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=620&lines=Building+real+products+with+Node+%26+React;Breaking+and+securing+things+on+Linux;Open+to+remote+work;Based+in+Cameroon+%F0%9F%87%A8%F0%9F%87%B2" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-4F9CF9?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open to remote work"/> <img src="https://img.shields.io/badge/Based%20in-Cameroon-302b63?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Cameroon"/> <img src="https://img.shields.io/github/followers/Shiwawaa?style=for-the-badge&logo=github&color=0f0c29" alt="Followers"/> <img src="https://komarev.com/ghpvc/?username=Shiwawaa&style=for-the-badge&color=4F9CF9&label=PROFILE+VIEWS" alt="Profile views"/> </p>
-👨‍💻 About Me
-js
-const andy = {
-  role: "Full-Stack Developer & Cybersecurity Enthusiast",
-  location: "Cameroon 🇨🇲",
-  stack: ["Node.js", "Express", "React", "Django", "TypeScript", "Python", "Linux"],
-  currentlyBuilding: "TODO: your current project",
-  currentlyLearning: ["TODO: e.g. system design", "TODO: e.g. pentesting"],
-  funFact: "I debug for fun. Yes, really.",
-  openTo: ["Remote work", "Freelance", "Collabs"],
-};
-🧰 Tech Stack
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,react,ts,js,py,django,tailwind,linux,kali,git,github,vscode&theme=dark" alt="My Tech Stack" /> </a> </p>
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top"> <h4>🔹 Project One</h4> <p>TODO: one-line description of what it does and why it matters.</p> <p><code>Node.js</code> <code>React</code> <code>PostgreSQL</code></p> <a href="https://github.com/Shiwawaa/REPO-NAME">View repo →</a> </td> <td width="50%" valign="top"> <h4>🔹 Project Two</h4> <p>TODO: one-line description of what it does and why it matters.</p> <p><code>Django</code> <code>Python</code></p> <a href="https://github.com/Shiwawaa/REPO-NAME">View repo →</a> </td> </tr> <tr> <td width="50%" valign="top"> <h4>🔹 Project Three</h4> <p>TODO: one-line description of what it does and why it matters.</p> <p><code>TypeScript</code> <code>Express</code></p> <a href="https://github.com/Shiwawaa/REPO-NAME">View repo →</a> </td> <td width="50%" valign="top"> <h4>🔹 Project Four</h4> <p>TODO: one-line description of what it does and why it matters.</p> <p><code>Python</code> <code>Linux</code></p> <a href="https://github.com/Shiwawaa/REPO-NAME">View repo →</a> </td> </tr> </table>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shiwawaa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Most Used Languages" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Shiwawaa&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiwawaa&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=4F9CF9&line=4F9CF9&point=ffffff" alt="Activity Graph" width="100%" /> </p>
-🤝 Connect With Me
-<p align="center"> <a href="https://github.com/Shiwawaa"><img src="https://img.shields.io/badge/GitHub-Shiwawaa-0f0c29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20me-4F9CF9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p> <p align="center"> <i>Thanks for visiting my profile ⭐️</i> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer"/>
+<h1 align="center">Yo, I'm Andy Miguel</h1>
+
+<p align="center">
+  <img src="./banner.svg" alt="Andy Miguel Banner" width="100%">
+</p>
+
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+...;3%2B+Years+Shipping+Real+Products;Open+to+Remote+Work;Based+in+Cameroon" alt="Typing SVG" />
+</p>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Web Developer & Cybersecurity Enthusiast**, based in Cameroon
+- 🛠️ Working primarily with **Node.js, Express, React, Django, TypeScript, Python & Linux**
+- 📚 Currently strengthening my academic and technical skills in software engineering
+- ⚡ Always up for tackling tricky bugs or optimizing complex system architectures
+
+---
+
+### 🧰 Tech Stack
+
+<p left="align">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,ts,js,py,tailwind,linux,kali,git,github,vscode&theme=dark" alt="My Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiwawaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Most Used Languages" height="165" />
+</p>
+
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Shiwawaa">
+    <img src="https://skillicons.dev/icons?i=github,linkedin&theme=dark" alt="GitHub and LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile ⭐️</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/><h1 align="center">Yo, I'm Andy Miguel</h1>
+
+<p align="center">
+  <img src="./banner.svg" alt="Andy Miguel Banner" width="100%">
+</p>
+
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+...;3%2B+Years+Shipping+Real+Products;Open+to+Remote+Work;Based+in+Cameroon" alt="Typing SVG" />
+</p>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Web Developer & Cybersecurity Enthusiast**, based in Cameroon
+- 🛠️ Working primarily with **Node.js, Express, React, Django, TypeScript, Python & Linux**
+- 📚 Currently strengthening my academic and technical skills in software engineering
+- ⚡ Always up for tackling tricky bugs or optimizing complex system architectures
+
+---
+
+### 🧰 Tech Stack
+
+<p left="align">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,ts,js,py,tailwind,linux,kali,git,github,vscode&theme=dark" alt="My Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiwawaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwawaa&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Most Used Languages" height="165" />
+</p>
+
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Shiwawaa">
+    <img src="https://skillicons.dev/icons?i=github,linkedin&theme=dark" alt="GitHub and LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile ⭐️</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
