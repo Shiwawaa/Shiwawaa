@@ -41,4 +41,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile%20%E2%AD%90&fontSize=20&fontColor=fff" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile%20%E2%AD%90&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+</p>
