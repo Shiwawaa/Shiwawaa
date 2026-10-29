@@ -1,8 +1,6 @@
 <h1 align="center">Yo, I'm Andy Miguel</h1>
 
-<p align="center">
-  <img src="./banner.svg" alt="Andy Miguel Banner" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4F9CF9&height=220&section=header&text=Andy%20Miguel&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Header"/>
 
 </p>
 <p align="center">
